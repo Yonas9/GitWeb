@@ -80,3 +80,8 @@ border: 1px black solid;
 .nav a:hover {
 border-bottom: 3px crimson solid;
 }
+.left a {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
